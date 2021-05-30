@@ -1,1 +1,25 @@
-yash/
+ ../yash/lib/python3.8/site-packages/__pycache__/
+ ../yash/lib/python3.8/site-packages/pip/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/cli/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/commands/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/distributions/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/index/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/models/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/network/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/operations/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/operations/build/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/operations/install/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/req/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/utils/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_internal/vcs/__pycache__/
+../yash/lib/python3.8/site-packages/pip/_vendor/__pycache__/
+../yash/lib/python3.8/site-packages/pkg_resources/__pycache__/
+../yash/lib/python3.8/site-packages/pkg_resources/_vendor/__pycache__/
+../yash/lib/python3.8/site-packages/pkg_resources/_vendor/packaging/__pycache__/
+../yash/lib/python3.8/site-packages/pkg_resources/extern/__pycache__/
+../yash/lib/python3.8/site-packages/setuptools/__pycache__/
+../yash/lib/python3.8/site-packages/setuptools/_vendor/__pycache__/
+../yash/lib/python3.8/site-packages/setuptools/_vendor/packaging/__pycache__/
+../yash/lib/python3.8/site-packages/setuptools/command/__pycache__/
+../yash/lib/python3.8/site-packages/setuptools/extern/__pycache__/
